@@ -1,7 +1,7 @@
 import pygame
 from cell_class import *
 
-# using pygames built in 2D vector library
+# using pygames built in 2D vector library 
 vector = pygame.math.Vector2
 
 class Game_Window:
